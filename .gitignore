@@ -9,6 +9,10 @@ jupyterlab_git/labextension
 # Created by https://www.gitignore.io/api/python
 # Edit at https://www.gitignore.io/?templates=python
 
+tf_wx_model/*
+tf_wx_model/**/
+tf_wx_model/*/**
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
