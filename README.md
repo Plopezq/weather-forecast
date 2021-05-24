@@ -4,10 +4,10 @@ Project done in Mineria de datos, an optative subject at UCM
 
 Trying to predict the weather in Ciudad Universitaria, Madrid
 
-First Part: [Collecting data and preprocessing it](https://github.com/Plopezq/weather-forecast/blob/main/Collect-Preprocess.ipynb)
+First Part: [Collecting data and preprocessing it](https://github.com/Plopezq/weather-forecast/blob/main/1-Collect-Preprocess.ipynb)
 
-Second Part: [Predicting data using linear regression](https://github.com/Plopezq/weather-forecast/blob/main/Linear-Regression.ipynb)
+Second Part: [Predicting data using linear regression](https://github.com/Plopezq/weather-forecast/blob/main/2-Linear-Regression.ipynb)
 
-Third Part: [Predicting data using Neural Networks](https://github.com/Plopezq/weather-forecast/blob/main/Neural-Network-Prediction.ipynb)
+Third Part: [Predicting data using Neural Networks](https://github.com/Plopezq/weather-forecast/blob/main/3-Neural-Network-Prediction.ipynb)
 
 This project is based on various articles from [Adam McQuistan](https://twitter.com/adamjmcquistan) that are located at [Stack Abuse](https://stackabuse.com/)
